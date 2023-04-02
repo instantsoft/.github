@@ -14,5 +14,5 @@
     ·
     <a href="https://instantcms.ru/forum/all">🌍 Forum</a>
     ·
-    <a href="https://addons.instantcms.ru/">✨ Addons</a>
+    <a href="https://instantcms.ru/addons">✨ Addons</a>
 </p>
